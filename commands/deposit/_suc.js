@@ -3,7 +3,7 @@
   help: 
   need_reply: true
   auto_retry_time: 
-  folder: 
+  folder: deposit
   answer: *💥 Kindly Send UTR ID Now*
   keyboard: 
   aliases: 

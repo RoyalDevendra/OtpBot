@@ -1,9 +1,9 @@
 /*CMD
-  command: /upi
+  command: /phone_pe
   help: 
   need_reply: true
   auto_retry_time: 
-  folder: 
+  folder: deposit
   answer: 
   keyboard: 
   aliases: 
@@ -23,7 +23,7 @@ let free = new Date().toLocaleString("en-US", {
   User.setProperty({
     name: "depo" + dt,
     value: {
-      type: "UPI",
+      type: "Phone Pe",
       amount: "-",
       id: request.photo[0].file_id,
       status: "Confirmed",
@@ -62,7 +62,7 @@ Api.sendPhoto({
     user.username +
     "](tg://user?id=" +
     user.telegramid +
-    ")*\n🔥 Method :* `UPI`",
+    ")*\n🔥 Method :* `Phone Pe`",
   parse_mode: "markdown"
 })
 

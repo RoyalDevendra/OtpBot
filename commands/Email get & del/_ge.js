@@ -3,7 +3,7 @@
   help: 
   need_reply: 
   auto_retry_time: 
-  folder: 
+  folder: Email get & del
   answer: 
   keyboard: 
   aliases: 

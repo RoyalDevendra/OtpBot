@@ -1,9 +1,9 @@
 /*CMD
   command: /info
   help: 
-  need_reply: 
+  need_reply: false
   auto_retry_time: 
-  folder: 
+  folder: Profile,t&c,settings
   answer: 
   keyboard: 
   aliases: 

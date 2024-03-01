@@ -1,5 +1,5 @@
-# OTP Bot by BCF
-It is repository for bot: [@BCF_otpbot](https://t.me/BCF_otpbot) by [@BjsCodes](https://BjsCodes.t.me)
+# BCF_otpbot - chat bot
+It is repository for chat bot: [@BCF_otpbot](https://t.me/BCF_otpbot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
